@@ -985,5 +985,3 @@ IF MOTORS CONSISTENTLY OVERHEAT:
 - [ ] Data analysis plan finalized
 
 ---
-
-**Ready to begin! Good luck with your study! 🚁✨**
