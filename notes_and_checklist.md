@@ -1,8 +1,7 @@
----
-### NOTES:
-## Emergency Procedures
 
+### NOTES:
 ### Drone Emergency Protocols
+---
 1. **Participant Distress:**
    - IMMEDIATELY activate kill switch / emergency land
    - Guide participant to remove headset if wearing VR
